@@ -9,6 +9,7 @@ export default function App() {
       <h2>Featuring Github integration :)</h2>
       <h2>Now it even works :O</h2>
       <h2>Maybe not :(</h2>
+      <h2>Yeah, another line</h2>
     </div>
   );
 }
