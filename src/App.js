@@ -8,6 +8,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <h2>Featuring Github integration :)</h2>
       <h2>Now it even works :O</h2>
+      <h2>Maybe not :(</h2>
     </div>
   );
 }
