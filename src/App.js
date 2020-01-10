@@ -10,6 +10,7 @@ export default function App() {
       <h2>Now it even works :O</h2>
       <h2>Maybe not :(</h2>
       <h2>Yeah, another line</h2>
+      <h2>To check it forces a hard reaload of the sandbox :O</h2>
     </div>
   );
 }
